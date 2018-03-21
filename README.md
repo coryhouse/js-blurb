@@ -4,5 +4,4 @@ JavaScript languished from 2009–2015 without a single release. But in 2015, ra
 
 JavaScript’s de facto package manager, npm, is the largest and fastest growing package manager in the world. There are over half a million packages in npm today. Thanks to projects like Node.js, Electron, and React Native, you can write web apps, native mobile apps, web APIs, server-side processes, and even desktop apps using JavaScript. They say software is eating the world. For all these reasons, much of that software is written in JavaScript. It’s not just for the web anymore. Today’s JavaScript is like Visa. It’s everywhere you want to be.
 
-Cory House
-Pluralsight Author
+Cory House - Pluralsight Author
